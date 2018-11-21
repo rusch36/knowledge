@@ -1,0 +1,6 @@
+git config --global user.name "rusch36"
+git config --global user.email "rudolf.schonecker@seznam.cz"
+git clone https://github.com/rusch36/knowledge.git
+
+git add git.txt
+
