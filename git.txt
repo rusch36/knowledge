@@ -3,4 +3,8 @@ git config --global user.email "rudolf.schonecker@seznam.cz"
 git clone https://github.com/rusch36/knowledge.git
 
 git add git.txt
+git status
+
+git commit -m "git - clone repository and add file"
+git push -u origin master
 
